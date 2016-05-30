@@ -1,5 +1,5 @@
 # TEAP-Resources
-A place to collated helpful resources for the ACPSEM TEAP program. 
+A place to collate helpful resources for the ACPSEM TEAP program. 
 Any tools that people have built, resources people have found, references 
 that are helpful should be collated here.
 

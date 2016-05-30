@@ -3,7 +3,7 @@ A place to collate helpful resources for the ACPSEM TEAP program.
 Any tools that people have built, resources people have found, references 
 that are helpful should be collated here.
 
-## A collation of links for navigating moodle and the CTG document
+## A collation of links for navigating Moodle and the CTG document
 http://simonbiggs.net/ctglinks
 
 
